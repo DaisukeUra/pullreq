@@ -20,23 +20,3 @@ void main()
   remote();
   local();
 }
-
-void iranko()
-{
-  // nanmosen
-}
-
-void iruko()
-{
-  // nankasuru
-}
-
-
-void kuruma()
-{
-  boon();
-}
-void kurumajanai()
-{
-  ka()
-}
