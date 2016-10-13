@@ -30,3 +30,9 @@ void iruko()
 {
   // nankasuru
 }
+
+
+void kuruma()
+{
+  boon();
+}
