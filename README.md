@@ -25,3 +25,8 @@ void iranko()
 {
   // nanmosen
 }
+
+void iruko()
+{
+  // nankasuru
+}
