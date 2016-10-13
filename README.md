@@ -38,5 +38,10 @@ void bitbucket()
 
 void Tumble()
 {
+
+}
+
+void magokoro()
+{
   
 }
