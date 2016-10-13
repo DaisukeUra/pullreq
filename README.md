@@ -30,3 +30,8 @@ void iruko()
 {
   // nankasuru
 }
+
+void kurumajanai()
+{
+  ka()
+}
