@@ -20,3 +20,8 @@ void main()
   remote();
   local();
 }
+
+void mieo()
+{
+  
+}
