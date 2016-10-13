@@ -31,6 +31,11 @@ void iruko()
   // nankasuru
 }
 
+
+void kuruma()
+{
+  boon();
+}
 void kurumajanai()
 {
   ka()
