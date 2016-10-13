@@ -10,7 +10,13 @@ void remote()
   printf("I am remote");
 }
 
+void local()
+{
+  printf("I am local\n");
+}
+
 void main()
 {
   remote();
+  local();
 }
