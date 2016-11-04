@@ -7,10 +7,18 @@ tete
 - Hazuki
 - Kisa
 - yue
+- EiiE
+- 10010010100111
+- so far so near
 
 void remote()
 {
   printf("I am remote");
+}
+
+void suggest()
+{
+  printf("I am rwte");
 }
 
 void local()
