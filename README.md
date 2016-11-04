@@ -7,6 +7,7 @@ tete
 - Hazuki
 - Kisa
 - yue
+- EiiE
 
 void remote()
 {
