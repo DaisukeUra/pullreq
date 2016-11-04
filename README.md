@@ -16,6 +16,11 @@ void remote()
   printf("I am remote");
 }
 
+void suggest()
+{
+  printf("I am rwte");
+}
+
 void local()
 {
   printf("I am local\n");
