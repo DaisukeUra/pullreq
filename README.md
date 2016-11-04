@@ -4,6 +4,9 @@ thanks giving Day
 FEED LE
 tete
 - maskra
+- Hazuki
+- Kisa
+- yue
 
 void remote()
 {
